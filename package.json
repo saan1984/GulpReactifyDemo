@@ -1,0 +1,16 @@
+{
+  "name": "GulpReactifyDemo",
+  "version": "0.0.1",
+  "description": "Gulp Reactify Demo",
+  "author": "Sandeep",
+  "license": "ISC",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-browserify": "^0.5.1",
+    "react": "^0.13.2",
+    "reactify": "^1.1.0"
+  }
+}
